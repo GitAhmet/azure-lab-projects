@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNlq5xTOo4mRRQfMJnBaDIDVyX5Zlg5pIkxwI1HEjZo1NT+DeacimUgn7Knyq4NAbkgdXH5ObqI1F/QLn8dScA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uky\\azure-lab-project\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uky\\.nuget\\packages\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
+    "C:\\Users\\uky\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
