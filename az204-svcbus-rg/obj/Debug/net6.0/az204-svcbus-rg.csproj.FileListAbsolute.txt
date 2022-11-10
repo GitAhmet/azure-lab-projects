@@ -1,0 +1,5 @@
+C:\Users\uky\azure-lab-project\az204-svcbus-rg\obj\Debug\net6.0\az204-svcbus-rg.csproj.AssemblyReference.cache
+C:\Users\uky\azure-lab-project\az204-svcbus-rg\obj\Debug\net6.0\az204-svcbus-rg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uky\azure-lab-project\az204-svcbus-rg\obj\Debug\net6.0\az204-svcbus-rg.AssemblyInfoInputs.cache
+C:\Users\uky\azure-lab-project\az204-svcbus-rg\obj\Debug\net6.0\az204-svcbus-rg.AssemblyInfo.cs
+C:\Users\uky\azure-lab-project\az204-svcbus-rg\obj\Debug\net6.0\az204-svcbus-rg.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+public static void GetBlobServiceClient(ref BlobServiceClient blobServiceClient,
+    string accountName, string accountKey)
+{
+    Azure.Storage.StorageSharedKeyCredential sharedKeyCredential =
+        new StorageSharedKeyCredential(accountName, accountKey);
+
+    string blobUri = "https://" + accountName + ".blob.core.windows.net";
+
+    blobServiceClient = new BlobServiceClient
+        (new Uri(blobUri), sharedKeyCredential);
+}
