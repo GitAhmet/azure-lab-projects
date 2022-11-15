@@ -4,8 +4,8 @@ using System.Threading.Tasks;
 using Azure.Messaging.ServiceBus;
 // connection string to your Service Bus namespace
 static string connectionString = 
-    "Endpoint=sb://az204svcbus18956.servicebus.windows.net/;
-    SharedAccessKeyName=RootManageSharedAccessKey;
+    "Endpoint=sb://az204svcbus18956.servicebus.windows.net/;\
+    SharedAccessKeyName=RootManageSharedAccessKey;\
     SharedAccessKey=9KGAHm6y7GelF/0U/RRyuosVJ3z3m8YtMRfbPpsFYT8=";
 
 // name of your Service Bus topic
