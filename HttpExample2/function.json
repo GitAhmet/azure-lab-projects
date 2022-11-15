@@ -4,7 +4,7 @@
       "authLevel": "anonymous",
       "type": "httpTrigger",
       "direction": "in",
-      "name": "req",
+      "name": "teq",
       "methods": [
         "get",
         "post"
@@ -13,7 +13,7 @@
     {
       "type": "http",
       "direction": "out",
-      "name": "res"
+      "name": "tes"
     }
   ]
 }
