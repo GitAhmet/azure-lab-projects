@@ -1,10 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
+// new-console-template 
 
 using System.Threading.Tasks;    
 using Azure.Messaging.ServiceBus;
 // connection string to your Service Bus namespace
-static string connectionString = "Endpoint=sb://az204svcbus18956.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9KGAHm6y7GelF/0U/RRyuosVJ3z3m8YtMRfbPpsFYT8=";
+static string connectionString = 
+    "Endpoint=sb://az204svcbus18956.servicebus.windows.net/;
+    SharedAccessKeyName=RootManageSharedAccessKey;S
+    haredAccessKey=9KGAHm6y7GelF/0U/RRyuosVJ3z3m8YtMRfbPpsFYT8=";
 
 // name of your Service Bus topic
 static string queueName = "az204-queue";
